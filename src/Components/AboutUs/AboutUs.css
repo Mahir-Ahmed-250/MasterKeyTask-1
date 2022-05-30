@@ -1,0 +1,62 @@
+.aboutUs {
+    background: #644F9C;
+}
+
+.about {
+    font-size: 60px;
+    font-weight: 800;
+    background: #644F9C;
+    margin-left: -50px;
+}
+
+
+.circle-container {
+    background: #644F9C;
+    padding: 40px;
+}
+
+.circle1 {
+    border: 2px dashed white;
+    margin-right: 80px;
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+    background: #644F9C;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+}
+
+.circle2 {
+    font-size: 60px;
+    color: #644F9C;
+    margin-right: 80px;
+    font-weight: bolder;
+    background: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+}
+
+.circle3 {
+
+    font-size: 35px;
+    color: white;
+    font-weight: bolder;
+    background: #FF6F00;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-top: 30px;
+    padding-left: 30px;
+    letter-spacing: 3px;
+    font-family: PTSansPro;
+    font-weight: bolder;
+}
+
+.language {
+    padding-top: 30px;
+    padding-right: 60px;
+    letter-spacing: 3px;
+    font-family: PTSans;
+    font-weight: bold;
+}
+
+.bn {
+    color: green;
+}

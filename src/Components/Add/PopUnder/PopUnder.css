@@ -1,0 +1,21 @@
+.modal-body {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
+
+.pop-img {
+    border: 1px solid rgb(177, 175, 175);
+}
+
+.join {
+    font-size: 80px;
+    margin-left: 10px;
+    font-family: Prototype;
+}
+
+.learn {
+    font-size: 30px;
+    text-align: left;
+    margin-left: 100px;
+    color: #644F9C;
+}

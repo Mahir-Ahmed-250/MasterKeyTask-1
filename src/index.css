@@ -7,6 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: "Prototype";
+  src: local("Prototype"),
+    url("./Fonts/Prototype.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PTSans";
+  src: local("PTSans"),
+    url("./Fonts/PTSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PTSansPro";
+  src: local("PTSansPro"),
+    url("./Fonts/PTSansPro.ttf") format("truetype");
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

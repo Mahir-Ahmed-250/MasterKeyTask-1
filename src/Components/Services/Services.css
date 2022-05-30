@@ -1,0 +1,53 @@
+.icon1 {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: white;
+    background-image: url("./icons/megaphone.png");
+    background-size: 120px 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.icon2 {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: white;
+    background-image: url("./icons/paper-plane.png");
+    background-size: 120px 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.icon3 {
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: white;
+    background-image: url("./icons/antenna.png");
+    background-size: 120px 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.serviceName {
+    text-align: center;
+}
+
+.serviceBtn {
+    background-color: #644F9C;
+    width: 300px;
+    margin-left: 40px;
+    height: 60px;
+    font-size: 25px;
+    color: white;
+    border-radius: 40px;
+    border: 1px solid white;
+}
