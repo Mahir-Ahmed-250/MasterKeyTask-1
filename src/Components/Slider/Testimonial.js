@@ -22,7 +22,7 @@ const Testimonial = () => {
     };
     return (
         <div className="container-fluid mt-5" >
-            <h2 className="text-center">Testimonial</h2>
+            <h2 className="text-center testimonial">Testimonial</h2>
             <div style={{ margin: 40 }} >
                 <Slider
                     ref={sliderRef}
@@ -31,7 +31,7 @@ const Testimonial = () => {
                     {
                         Array(10).fill('').map(() => (
 
-                            <div style={{ margin: 20 }}>
+                            < div style={{ margin: 20 }}>
                                 <Card style={{ height: "220px", marginLeft: "60px" }}>
                                     <span style={{ display: "flex", alignItems: "center" }}>
                                         <img className="ms-5 mt-4" width='210' src={img} alt="" />
@@ -50,7 +50,7 @@ const Testimonial = () => {
                         ))
                     }
                 </Slider>
-            </div>
+            </div >
             <div className="d-flex justify-content-center">
                 <div>
                     <svg onClick={() => sliderRef.current.slickPrev()}

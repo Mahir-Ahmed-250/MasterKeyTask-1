@@ -13,6 +13,7 @@ import Native from './Components/Add/Native/Native';
 import Skim from './Components/Add/Skim/Skim';
 import AboutUs from './Components/AboutUs/AboutUs';
 import Testimonial from './Components/Slider/Testimonial';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
       </Routes>
       <AboutUs></AboutUs>
       <Testimonial></Testimonial>
+      <Footer></Footer>
     </div>
   );
 }

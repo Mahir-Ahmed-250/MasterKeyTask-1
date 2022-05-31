@@ -7,6 +7,7 @@
     font-weight: 800;
     background: #644F9C;
     margin-left: -50px;
+    font-family: Prototype;
 }
 
 
@@ -18,6 +19,7 @@
 .circle1 {
     border: 2px dashed white;
     margin-right: 80px;
+    font-family: PTSans;
     font-size: 30px;
     color: white;
     font-weight: bolder;
@@ -34,6 +36,7 @@
 .circle2 {
     font-size: 60px;
     color: #644F9C;
+    font-family: PTSans;
     margin-right: 80px;
     font-weight: bolder;
     background: white;
@@ -51,6 +54,7 @@
     font-size: 35px;
     color: white;
     font-weight: bolder;
+    font-family: PTSans;
     background: #FF6F00;
     width: 300px;
     height: 300px;

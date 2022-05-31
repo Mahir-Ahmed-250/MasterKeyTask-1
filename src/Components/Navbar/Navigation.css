@@ -2,6 +2,7 @@
     border-radius: 20px !important;
     border: 10px solid #ffffff;
     font-size: 20px;
+    font-family: PTSans;
     box-shadow: 0 4px 2px -2px gray;
     width: 300px;
     margin-right: 30px !important;
@@ -16,6 +17,7 @@
 .navItem {
     margin-right: 50px !important;
     color: #644F9C;
+    font-family: PTSans;
 
 }
 
